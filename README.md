@@ -1,0 +1,1 @@
+The aim of this exercise is to analyze land use types and their relation to environmental conditions. The target area of the analysis is focused on South Africa as illustrated in Figure 1 and covers: Lon 14° to 34°, Lat -6°to -26°. For the study 2 years (2003 and 2019) has to be compared and changes, if any, have to be quantified
